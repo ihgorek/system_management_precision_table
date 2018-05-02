@@ -1,0 +1,1010 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  1 MAY 2018 16:01
+entering extended mode
+**./diplom.tex
+(diplom.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdtext.cls"
+Document Class: eskdtext 2010/01/14 v0.98 Textual Documentation
+("C:\Igor\Programm\MikTex 2.9\tex\latex\extsizes\extarticle.cls"
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) ("C:\Igor\Programm\MikTex 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdlang.sty"
+Package: eskdlang 2010/01/14 v0.98 Language
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\cyrillic\cp1251.def"
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+("C:\Igor\Programm\MikTex 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Igor\Programm\MikTex 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\babel-russian\russianb.ldf"
+Language: russianb 2017/01/12 1.3i Russian support for the Babel system
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen104
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 69.
+
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 111.
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdrussian.def"
+File: eskdrussian.def 2010/01/17 v0.98 Language File
+\ESKDexplanWidth=\skip43
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdstamp.sty"
+Package: eskdstamp 2011/05/06 v0.98 Stamp GOST 2.104-68
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip46
+)
+\ESKD@margin@si=\skip47
+\ESKD@margin@so=\skip48
+\ESKD@margin@t=\skip49
+\ESKD@margin@b=\skip50
+\ESKDlineThick=\skip51
+\ESKDlineThin=\skip52
+\ESKD@padding@h=\skip53
+\ESKD@padding@v=\skip54
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Igor\Programm\MikTex 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks17
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\lastpage\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+\ESKD@tmpdima=\skip55
+\ESKD@tmpdimb=\skip56
+\ESKD@tmpdimc=\skip57
+\ESKD@tmpcnta=\count94
+\ESKD@tmpcntb=\count95
+\ESKD@zonelabel@hc=\count96
+\ESKD@zonelabel@vc=\count97
+\ESKD@zonelabel@hs=\skip58
+\ESKD@zonelabel@vs=\skip59
+\ESKD@zonelabel@cnt=\count98
+\ESKD@origin@x=\skip60
+\ESKD@origin@y=\skip61
+\ESKDframeX=\skip62
+\ESKDframeY=\skip63
+\ESKDframeW=\skip64
+\ESKDframeH=\skip65
+\ESKDstampX=\skip66
+\ESKDstampY=\skip67
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdfont.sty"
+Package: eskdfont 2010/01/14 v0.98 Font Definitions
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count100
+\rotFPtop=\skip68
+\rotFPbot=\skip69
+\rot@float@box=\box26
+\rot@mess@toks=\toks18
+)
+\ESKD@frame@box=\box27
+\ESKD@stamp@i@box=\box28
+\ESKD@stamp@ii@box=\box29
+\ESKD@stamp@ii@a@box=\box30
+\ESKD@stamp@ii@b@box=\box31
+\ESKD@columns@xix@box=\box32
+\ESKD@column@xxvi@box=\box33
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdhash.sty"
+Package: eskdhash 2010/01/14 v0.98 Hash Routines
+)
+\ESKD@hash@c@@style@draw@empty=\count101
+\ESKD@hash@p@@style@draw@empty=\count102
+\ESKD@hash@c@@style@draw@title=\count103
+\ESKD@hash@p@@style@draw@title=\count104
+\ESKD@hash@c@@style@draw@formI=\count105
+\ESKD@hash@p@@style@draw@formI=\count106
+\ESKD@hash@c@@style@draw@formII=\count107
+\ESKD@hash@p@@style@draw@formII=\count108
+\ESKD@hash@c@@style@draw@formIIab=\count109
+\ESKD@hash@p@@style@draw@formIIab=\count110
+\ESKD@curpad@h=\skip70
+\ESKD@curpad@v=\skip71
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\ltxmisc\chngpage.sty"
+Package: chngpage 2003/08/10 v1.2 change page layout
+\c@cp@cnt=\count111
+\c@cp@tempcnt=\count112
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdinfo.sty"
+Package: eskdinfo 2010/01/14 v0.98 Document Information
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdafterpkg.sty"
+Package: eskdafterpkg 2010/01/14 v0.98 Apply Commands After Package
+)
+After Package Info: Collect commands for hyperref on input line 99
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdindent.sty"
+Package: eskdindent 2010/01/14 v0.98 Paragraph Indent
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdlist.sty"
+Package: eskdlist 2010/01/14 v0.98 List
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdsect.sty"
+Package: eskdsect 2010/01/14 v0.98 Sectioning
+\ESKDsectionSkipBefore=\skip72
+\ESKDsectionSkipAfter=\skip73
+\ESKDsubsectionSkipBefore=\skip74
+\ESKDsubsectionSkipAfter=\skip75
+\ESKDsubsubsectionSkipBefore=\skip76
+\ESKDsubsubsectionSkipAfter=\skip77
+\c@point=\count113
+\c@subpoint=\count114
+\c@subsubpoint=\count115
+\c@appendix=\count116
+\ESKDappendixSkip=\skip78
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdcap.sty"
+Package: eskdcap 2010/01/14 v0.98 Captions
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count117
+Package caption Info: rotating package is loaded.
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdfootnote.sty"
+Package: eskdfootnote 2010/01/14 v0.98 Footnote Settings
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip79
+
+For additional information on amsmath, use the `?' option.
+("C:\Igor\Programm\MikTex 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen124
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen125
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count118
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count119
+\leftroot@=\count120
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count121
+\DOTSCASE@=\count122
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
+\dotsspace@=\muskip10
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks20
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks21
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks22
+\multlinegap=\skip80
+\multlinetaggap=\skip81
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\zref-perpage.sty"
+Package: zref-perpage 2016/05/21 v2.26 Module perpage for zref (HO)
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\zref-base.sty"
+Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\zref-abspage.sty"
+Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
+
+("C:\Igor\Programm\MikTex 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+\c@abspage=\count130
+Package zref Info: New property: abspage on input line 62.
+)
+Package zref Info: New property: pagevalue on input line 54.
+Package zref Info: New property list: perpage on input line 55.
+\c@zpage=\count131
+\c@zref@unique=\count132
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdbiblist.sty"
+Package: eskdbiblist 2010/01/14 v0.98 Bibliography List
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdexplan.sty"
+Package: eskdexplan 2010/01/19 v0.98 ESKD Explanation
+\ESKDexplanIndent=\skip82
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdtitlebase.sty"
+Package: eskdtitlebase 2010/01/14 v0.98 Base Title Commands
+\ESKD@title@agreed@cnt=\count133
+\ESKD@title@designed@cnt=\count134
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\eskdx\eskdtitle.sty"
+Package: eskdtitle 2010/01/14 v0.98 Title GOST 2.105
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\t2\mathtext.sty"
+Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 111.
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+LaTeX Font Info:    Redeclaring font encoding T2A on input line 42.
+\symT2Aletters=\mathgroup4
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\pscyr.sty"
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\cmap\cmap.sty"
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
+
+Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
+
+) ("C:\Igor\Programm\MikTex 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip83
+\LTright=\skip84
+\LTpre=\skip85
+\LTpost=\skip86
+\LTchunksize=\count135
+\LTcapwidth=\dimen133
+\LT@head=\box36
+\LT@firsthead=\box37
+\LT@foot=\box38
+\LT@lastfoot=\box39
+\LT@cols=\count136
+\LT@rows=\count137
+\c@LT@tables=\count138
+\c@LT@chunks=\count139
+\LT@p@ftn=\toks24
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\threeparttable\threeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box40
+)
+(diplom.aux (introduction.aux) (reviewDecision.aux) (functionalDiagram.aux)
+(staticCalculation.aux) (mathModeling.aux) (blockDiagram.aux) (regulator.aux)
+(d_regulator.aux) (manage_system.aux) (conclusion.aux) (bibliography.aux)
+(appendA.aux) (appendB.aux) (appendC.aux) (appendD.aux) (appendE.aux)
+(appendF.aux) (appendG.aux) (appendH.aux) (appendI.aux))
+\openout1 = `diplom.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 33.
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\t2aftm.fd"
+File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
+)<<t2a.cmap>>
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13187pt, 497.92328pt, 28.45273pt)
+* v-part:(T,H,B)=(71.13187pt, 702.78311pt, 71.13187pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=497.64665pt
+* \textheight=660.21463pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-1.13812pt
+* \topmargin=-1.13812pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=0.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 33.
+("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count140
+\scratchdimen=\dimen134
+\scratchbox=\box41
+\nofMPsegments=\count141
+\nofMParguments=\count142
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count143
+\MPscratchDim=\dimen135
+\MPnumerator=\count144
+\makeMPintoPDFobject=\count145
+\everyMPtoPDFconversion=\toks26
+) ("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box42
+ (diplom.toc
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\ot1ftm.fd"
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>> [1{C:/Users/РРіРѕСЂСЊ/AppDat
+a/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+])
+\tf@toc=\write3
+\openout3 = `diplom.toc'.
+
+ [2]
+\openout2 = `introduction.aux'.
+
+ (introduction.tex [3
+
+] [4])
+\openout2 = `reviewDecision.aux'.
+
+ (reviewDecision.tex
+[5
+
+
+]) [6]
+\openout2 = `functionalDiagram.aux'.
+
+ (functionalDiagram.tex
+<images/func.png, id=32, 661.47125pt x 299.1175pt>
+File: images/func.png Graphic file (type png)
+ <use images/func.png>
+Package pdftex.def Info: images/func.png used on input line 7.
+(pdftex.def)             Requested size: 447.87894pt x 202.53001pt.
+)
+[7
+
+
+ <./images/func.png>] [8]
+\openout2 = `staticCalculation.aux'.
+
+ (staticCalculation.tex [9
+
+
+]
+<images/rotary_piezo.jpg, id=45, 155.07938pt x 219.82124pt>
+File: images/rotary_piezo.jpg Graphic file (type jpg)
+
+<use images/rotary_piezo.jpg>
+Package pdftex.def Info: images/rotary_piezo.jpg used on input line 25.
+(pdftex.def)             Requested size: 248.82332pt x 352.70058pt.
+
+<images/piezo_velocity.png, id=46, 855.195pt x 501.875pt>
+File: images/piezo_velocity.png Graphic file (type png)
+
+<use images/piezo_velocity.png>
+Package pdftex.def Info: images/piezo_velocity.png used on input line 34.
+(pdftex.def)             Requested size: 348.35114pt x 204.42993pt.
+ [10]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+
+Overfull \vbox (4.98747pt too high) has occurred while \output is active []
+
+
+[11 <./images/rotary_piezo.jpg> <./images/piezo_velocity.png>]
+<images/pic_RSPA30XS.png, id=53, 626.34pt x 602.25pt>
+File: images/pic_RSPA30XS.png Graphic file (type png)
+
+<use images/pic_RSPA30XS.png>
+Package pdftex.def Info: images/pic_RSPA30XS.png used on input line 47.
+(pdftex.def)             Requested size: 248.82332pt x 239.2508pt.
+ [12 <./images/pic_RSPA30XS.png>]
+Overfull \hbox (7.6396pt too wide) in paragraph at lines 57--104
+ [] 
+ []
+
+[13]
+Overfull \hbox (8.54156pt too wide) in paragraph at lines 110--111
+\T2A/ftm/m/n/14.4 ин-кре-мен-таль-ный уг-ло-вой фо-то-элек-три-че-ский пре-об-р
+а-зо-ва-тель пе-ре-ме-ще-ний (ин-
+ []
+
+<images/inc_d.jpg, id=61, 542.025pt x 361.35pt>
+File: images/inc_d.jpg Graphic file (type jpg)
+ <use images/inc_d.jpg>
+Package pdftex.def Info: images/inc_d.jpg used on input line 114.
+(pdftex.def)             Requested size: 398.11884pt x 265.42088pt.
+ [14 <./images/inc_d.jpg>] [15]
+Overfull \hbox (5.97607pt too wide) in paragraph at lines 152--153
+[]\T2A/ftm/m/n/14.4 Архитектура мик-ро-кон-трол-ле-ра ADuC7024 ком-па-нии Analo
+g Devices пред-
+ []
+
+<images/mk_block_sh.png, id=69, 387.94937pt x 209.28188pt>
+File: images/mk_block_sh.png Graphic file (type png)
+
+<use images/mk_block_sh.png>
+Package pdftex.def Info: images/mk_block_sh.png used on input line 157.
+(pdftex.def)             Requested size: 398.11884pt x 214.77075pt.
+ [16]
+<images/control_board_AD.jpg, id=73, 120.45pt x 91.9435pt>
+File: images/control_board_AD.jpg Graphic file (type jpg)
+
+<use images/control_board_AD.jpg>
+Package pdftex.def Info: images/control_board_AD.jpg used on input line 166.
+(pdftex.def)             Requested size: 248.82332pt x 189.95422pt.
+ [17 <./images/mk_block_sh.png> <./images/control_board_AD.jpg>]) [18]
+\openout2 = `mathModeling.aux'.
+
+ (mathModeling.tex
+<images/sh_piezo.png, id=81, 845.1575pt x 458.71375pt>
+File: images/sh_piezo.png Graphic file (type png)
+
+<use images/sh_piezo.png>
+Package pdftex.def Info: images/sh_piezo.png used on input line 8.
+(pdftex.def)             Requested size: 398.11884pt x 216.08545pt.
+ [19
+
+
+ <./images/sh_piezo.png>]
+<images/sh_work.png, id=87, 671.00688pt x 362.85562pt>
+File: images/sh_work.png Graphic file (type png)
+
+<use images/sh_work.png>
+Package pdftex.def Info: images/sh_work.png used on input line 22.
+(pdftex.def)             Requested size: 398.11884pt x 215.28442pt.
+ [20 <./images/sh_work.png>] [21] [22]
+<images/struct_schem.jpg, id=102, 341.275pt x 156.08313pt>
+File: images/struct_schem.jpg Graphic file (type jpg)
+
+<use images/struct_schem.jpg>
+Package pdftex.def Info: images/struct_schem.jpg used on input line 111.
+(pdftex.def)             Requested size: 398.11884pt x 182.09254pt.
+) [23 <./images/struct_schem.jpg>]
+\openout2 = `blockDiagram.aux'.
+
+
+(blockDiagram.tex <images/str_el_schem.png, id=106, 528.97626pt x 139.52126pt>
+File: images/str_el_schem.png Graphic file (type png)
+
+<use images/str_el_schem.png>
+Package pdftex.def Info: images/str_el_schem.png used on input line 7.
+(pdftex.def)             Requested size: 348.35114pt x 91.87993pt.
+) [24
+
+
+ <./images/str_el_schem.png>]
+\openout2 = `regulator.aux'.
+
+ (regulator.tex
+<images/model_schem.png, id=111, 673.51625pt x 220.32312pt>
+File: images/model_schem.png Graphic file (type png)
+
+<use images/model_schem.png>
+Package pdftex.def Info: images/model_schem.png used on input line 17.
+(pdftex.def)             Requested size: 447.87894pt x 146.51302pt.
+ [25
+
+
+ <./images/model_schem.png>]
+<images/withoutKx.jpg, id=118, 1887.05pt x 857.2025pt>
+File: images/withoutKx.jpg Graphic file (type jpg)
+
+<use images/withoutKx.jpg>
+Package pdftex.def Info: images/withoutKx.jpg used on input line 29.
+(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
+ <images/pereh.jpg, id=119, 1887.05pt x 857.2025pt>
+File: images/pereh.jpg Graphic file (type jpg)
+
+<use images/pereh.jpg>
+Package pdftex.def Info: images/pereh.jpg used on input line 35.
+(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
+ [26 <./images/withoutKx.jpg> <./images/pereh.jpg>]
+[27] [28] <images/reg.jpg, id=130, 1887.05pt x 857.2025pt>
+File: images/reg.jpg Graphic file (type jpg)
+
+<use images/reg.jpg>
+Package pdftex.def Info: images/reg.jpg used on input line 90.
+(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
+ <images/e_reg.jpg, id=131, 1887.05pt x 857.2025pt>
+File: images/e_reg.jpg Graphic file (type jpg)
+
+<use images/e_reg.jpg>
+Package pdftex.def Info: images/e_reg.jpg used on input line 99.
+(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
+) [29 <./images/reg.jpg> <./images/e_reg.jpg>]
+\openout2 = `d_regulator.aux'.
+
+
+(d_regulator.tex <images/sh_with_d_reg.png, id=135, 585.18625pt x 153.57375pt>
+File: images/sh_with_d_reg.png Graphic file (type png)
+
+<use images/sh_with_d_reg.png>
+Package pdftex.def Info: images/sh_with_d_reg.png used on input line 15.
+(pdftex.def)             Requested size: 447.87894pt x 117.54445pt.
+ [30
+
+
+ <./images/sh_with_d_reg.png>]
+<images/d_reg.jpg, id=140, 1887.05pt x 857.2025pt>
+File: images/d_reg.jpg Graphic file (type jpg)
+ <use images/d_reg.jpg>
+Package pdftex.def Info: images/d_reg.jpg used on input line 26.
+(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
+)
+[31 <./images/d_reg.jpg>]
+\openout2 = `manage_system.aux'.
+
+ (manage_system.tex
+<images/sh_mk.png, id=145, 209.78375pt x 481.8pt>
+File: images/sh_mk.png Graphic file (type png)
+ <use images/sh_mk.png>
+Package pdftex.def Info: images/sh_mk.png used on input line 7.
+(pdftex.def)             Requested size: 149.2955pt x 342.88171pt.
+
+[32
+
+
+ <./images/sh_mk.png>]
+<images/sh_prog.png, id=150, 202.7575pt x 684.5575pt>
+File: images/sh_prog.png Graphic file (type png)
+ <use images/sh_prog.png>
+Package pdftex.def Info: images/sh_prog.png used on input line 17.
+(pdftex.def)             Requested size: 124.41165pt x 420.05504pt.
+) [33 <./images/sh_prog.png>]
+\openout2 = `conclusion.aux'.
+
+ (conclusion.tex [34
+
+
+]) [35]
+\openout2 = `bibliography.aux'.
+
+ (bibliography.tex
+[36
+
+
+]) [37]
+\openout2 = `appendA.aux'.
+
+ (appendA.tex <images/prilA.png, id=168, 427.5975pt x 436.12938pt>
+File: images/prilA.png Graphic file (type png)
+
+<use images/prilA.png>
+Package pdftex.def Info: images/prilA.png used on input line 7.
+(pdftex.def)             Requested size: 447.87894pt x 456.81804pt.
+ [38
+
+
+
+ <./images/prilA.png>]
+<images/prilA_1.png, id=173, 395.97937pt x 410.03188pt>
+File: images/prilA_1.png Graphic file (type png)
+
+<use images/prilA_1.png>
+Package pdftex.def Info: images/prilA_1.png used on input line 17.
+(pdftex.def)             Requested size: 348.35114pt x 360.71654pt.
+ [39 <./images/prilA_1.png>]
+Overfull \hbox (4.39198pt too wide) in paragraph at lines 26--26
+[]\T2A/ftm/m/n/14.4 Контрольно-измерительная си-сте-ма сто-ла со-дер-жит элек-т
+ро-дви-га-тель (12),
+ []
+
+[40]) [41]
+\openout2 = `appendB.aux'.
+
+ (appendB.tex <images/prilB.png, id=184, 284.56313pt x 212.795pt>
+File: images/prilB.png Graphic file (type png)
+
+<use images/prilB.png>
+Package pdftex.def Info: images/prilB.png used on input line 7.
+(pdftex.def)             Requested size: 248.82332pt x 186.07826pt.
+ [42
+
+
+
+ <./images/prilB.png>]
+Overfull \hbox (19.55537pt too wide) in paragraph at lines 13--13
+[]\T2A/ftm/m/n/14.4 Fixturing is a critical and expensive process that must be 
+undertaken in preparation
+ []
+
+) [43]
+\openout2 = `appendC.aux'.
+
+ (appendC.tex <images/prilC.png, id=193, 273.02pt x 187.19937pt>
+File: images/prilC.png Graphic file (type png)
+
+<use images/prilC.png>
+Package pdftex.def Info: images/prilC.png used on input line 7.
+(pdftex.def)             Requested size: 248.82332pt x 170.60876pt.
+ [44
+
+
+
+ <./images/prilC.png>]
+<images/prilC_1.png, id=198, 1934.22626pt x 2063.71pt>
+File: images/prilC_1.png Graphic file (type png)
+
+<use images/prilC_1.png>
+Package pdftex.def Info: images/prilC_1.png used on input line 16.
+(pdftex.def)             Requested size: 194.08188pt x 207.04437pt.
+) [45 <./images/prilC_1.png (PNG copy)>]
+\openout2 = `appendD.aux'.
+
+ (appendD.tex
+<images/prilD.png, id=202, 274.52562pt x 186.6975pt>
+File: images/prilD.png Graphic file (type png)
+ <use images/prilD.png>
+Package pdftex.def Info: images/prilD.png used on input line 5.
+(pdftex.def)             Requested size: 248.82332pt x 169.22267pt.
+
+Overfull \hbox (9.26959pt too wide) in paragraph at lines 9--9
+\T2A/ftm/m/n/14.4 ROTATABLE RELATIVE THERETO. PRECISE POSITIONING OF THE MOVABL
+E
+ []
+
+
+Overfull \hbox (10.3907pt too wide) in paragraph at lines 9--9
+\T2A/ftm/m/n/14.4 RIOUS ROTATING PARTS ARE CONTINUOUSLY SUBJECTED TO A CONSTANT
+
+ []
+
+
+Overfull \hbox (8.5065pt too wide) in paragraph at lines 9--9
+\T2A/ftm/m/n/14.4 IN BACK-LASH-FREE ENGAGEMENT WITH EACH OTHER. AN ATTACHMENT
+ []
+
+[46
+
+
+
+ <./images/prilD.png>] <images/prilD_1.png, id=207, 558.888pt x 820.9872pt>
+File: images/prilD_1.png Graphic file (type png)
+
+<use images/prilD_1.png>
+Package pdftex.def Info: images/prilD_1.png used on input line 15.
+(pdftex.def)             Requested size: 447.87894pt x 657.93063pt.
+) [47 <./images/prilD_1.png>]
+\openout2 = `appendE.aux'.
+
+ (appendE.tex
+<images/prilE.png, id=211, 276.03125pt x 226.34563pt>
+File: images/prilE.png Graphic file (type png)
+ <use images/prilE.png>
+Package pdftex.def Info: images/prilE.png used on input line 4.
+(pdftex.def)             Requested size: 248.82332pt x 204.04417pt.
+
+Overfull \hbox (15.38039pt too wide) in paragraph at lines 10--10
+[]\T2A/ftm/m/n/14.4 The inventive motor can be employed in automation systems, 
+in robot technology,
+ []
+
+[48
+
+
+
+ <./images/prilE.png>]) [49]
+\openout2 = `appendF.aux'.
+
+ (appendF.tex
+<images/prilF.png, id=220, 390.96063pt x 479.7925pt>
+File: images/prilF.png Graphic file (type png)
+ <use images/prilF.png>
+Package pdftex.def Info: images/prilF.png used on input line 4.
+(pdftex.def)             Requested size: 423.00269pt x 519.14186pt.
+)
+[50
+
+
+
+ <./images/prilF.png>]
+\openout2 = `appendG.aux'.
+
+ (appendG.tex [51
+
+
+
+]
+<images/prilG.png, id=228, 574.145pt x 218.8175pt>
+File: images/prilG.png Graphic file (type png)
+ <use images/prilG.png>
+Package pdftex.def Info: images/prilG.png used on input line 44.
+(pdftex.def)             Requested size: 423.00269pt x 161.2179pt.
+)
+[52 <./images/prilG.png>]
+\openout2 = `appendH.aux'.
+
+ (appendH.tex
+<images/prilH.png, id=233, 269.005pt x 257.96375pt>
+File: images/prilH.png Graphic file (type png)
+ <use images/prilH.png>
+Package pdftex.def Info: images/prilH.png used on input line 7.
+(pdftex.def)             Requested size: 423.00269pt x 405.64555pt.
+)
+[53
+
+
+
+ <./images/prilH.png>]
+\openout2 = `appendI.aux'.
+
+ (appendI.tex
+LaTeX Font Info:    Try loading font information for T2A+fer on input line 3.
+
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\t2afer.fd"
+File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
+)) [54
+
+
+
+]
+
+AED: lastpage setting LastPage
+(diplom.aux (introduction.aux) (reviewDecision.aux) (functionalDiagram.aux)
+(staticCalculation.aux) (mathModeling.aux) (blockDiagram.aux) (regulator.aux)
+(d_regulator.aux) (manage_system.aux) (conclusion.aux) (bibliography.aux)
+(appendA.aux) (appendB.aux) (appendC.aux) (appendD.aux) (appendE.aux)
+(appendF.aux) (appendG.aux) (appendH.aux) (appendI.aux)) ) 
+Here is how much of TeX's memory you used:
+ 6889 strings out of 493333
+ 105520 string characters out of 3139179
+ 191407 words of memory out of 3000000
+ 10009 multiletter control sequences out of 15000+200000
+ 28430 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,16n,42p,4482b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Igor/Programm/Mik
+Tex 2.9/fonts/enc/t2/t2a.enc} <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\M
+iKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk><C:/Igor/Programm/MikTex
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Ig
+or/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Igor/Progra
+mm/MikTex 2.9/fonts/type1/public/pscyr/ercour.pfb><C:/Igor/Programm/MikTex 2.9/
+fonts/type1/public/pscyr/times.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/pub
+lic/pscyr/times.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/pscyr/times
+bd.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/pscyr/timesbd.pfb>
+Output written on diplom.pdf (54 pages, 2506887 bytes).
+PDF statistics:
+ 310 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+

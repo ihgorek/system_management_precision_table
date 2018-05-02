@@ -1,0 +1,62 @@
+\documentclass[russian, floatsection, equationsection, cp1251,columnxxvi, hpadding=5mm, vpadding=20mm]{eskdtext}
+
+\newcommand{\No}{\textnumero}
+\usepackage{mathtext} 
+\usepackage[T2A]{fontenc}
+\usepackage{pscyr}
+\usepackage{cmap}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{threeparttable}
+
+\renewcommand{\rmdefault}{ftm}
+\renewcommand{\baselinestretch}{1.5}
+
+\ESKDdocName{Разработка системы управления прецизионным поворотным столом}
+\ESKDauthor{Уткин\,И.\,И}
+\ESKDchecker{Быстров\,С.\,В.}
+\ESKDnormContr{Ведяков\,А.\,А.}
+\ESKDapprovedBy{Бобцов\,А.\,А.}
+\ESKDsignature{КСУИ.101.3440.001 ПЗ} % Шифр
+\ESKDletter{}{Д}{} % Литеры
+\ESKDgroup{\footnotesize Университет ИТМО\\\scriptsize Кафедра систем управления и информатики}
+
+
+\ESKDtitleApprovedBy{Зав. Кафедрой}{Быстров С.В.} % Утверждаю
+\ESKDtitleDesignedBy{Дипломник}{Уткин И.И.} % Подпись и дата под заголовком документа
+
+\ESKDsectSkip{section}{7mm}{7mm}
+\ESKDsectSkip{subsection}{5mm}{5mm}
+\ESKDsectStyle{section}{\large\bfseries} 
+\ESKDsectStyle{subsection}{\large\bfseries} 
+
+\begin{document}
+	\renewcommand{\refname}{Cписок использованных источников}
+	\ESKDthisStyle{formII}
+	\tableofcontents
+	\newpage
+	\topmargin = 0 mm
+	\include{introduction}
+	\include{reviewDecision}
+	\include{functionalDiagram}
+	
+	\include{staticCalculation}
+	\include{mathModeling}
+	\include{blockDiagram}
+	
+	\include{regulator}
+	\include{d_regulator}
+	\include{manage_system}
+	
+	\include{conclusion} 
+	\include{bibliography}
+	\include{appendA}
+	\include{appendB}
+	\include{appendC}
+	\include{appendD}
+	\include{appendE}
+	\include{appendF}
+	\include{appendG}
+	\include{appendH}
+	\include{appendI}
+\end{document}

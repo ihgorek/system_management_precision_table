@@ -12,6 +12,7 @@
 \renewcommand{\rmdefault}{ftm}
 \renewcommand{\baselinestretch}{1.5}
 
+
 \ESKDdocName{Разработка системы управления прецизионным поворотным столом}
 \ESKDauthor{Уткин\,И.\,И}
 \ESKDchecker{Быстров\,С.\,В.}
@@ -32,23 +33,26 @@
 
 \begin{document}
 	\renewcommand{\refname}{Cписок использованных источников}
+	\setcounter{page}{4}
 	\ESKDthisStyle{formII}
 	\tableofcontents
 	\newpage
+	
 	\topmargin = 0 mm
 	\include{introduction}
+	
 	\include{reviewDecision}
 	\include{functionalDiagram}
-	
 	\include{staticCalculation}
+
 	\include{mathModeling}
-	\include{blockDiagram}
-	
+	\include{blockDiagram}	
 	\include{regulator}
+
 	\include{d_regulator}
-	\include{manage_system}
-	
+	\include{manage_system}	
 	\include{conclusion} 
+
 	\include{bibliography}
 	\include{appendA}
 	\include{appendB}

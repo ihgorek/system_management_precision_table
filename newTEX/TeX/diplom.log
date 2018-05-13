@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  1 MAY 2018 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  13 MAY 2018 09:01
 entering extended mode
 **./diplom.tex
 (diplom.tex
@@ -464,21 +464,21 @@ Package: threeparttable 2003/06/13  v 3.0
 (appendF.aux) (appendG.aux) (appendH.aux) (appendI.aux))
 \openout1 = `diplom.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Try loading font information for T2A+ftm on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 34.
 
 ("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\t2aftm.fd"
 File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
@@ -519,7 +519,7 @@ File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 33.
+(lastpage)             ! on input line 34.
 ("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count140
@@ -564,42 +564,42 @@ LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
 
 ("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\ot1ftm.fd"
 File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
-)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>> [1{C:/Users/РРіРѕСЂСЊ/AppDat
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>> [4{C:/Users/РРіРѕСЂСЊ/AppDat
 a/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ])
 \tf@toc=\write3
 \openout3 = `diplom.toc'.
 
- [2]
+ [5]
 \openout2 = `introduction.aux'.
 
- (introduction.tex [3
+ (introduction.tex [6
 
-] [4])
+] [7])
 \openout2 = `reviewDecision.aux'.
 
  (reviewDecision.tex
-[5
+[8
 
 
-]) [6]
+]) [9]
 \openout2 = `functionalDiagram.aux'.
 
  (functionalDiagram.tex
-<images/func.png, id=32, 661.47125pt x 299.1175pt>
+<images/func.png, id=32, 330.73563pt x 149.55875pt>
 File: images/func.png Graphic file (type png)
  <use images/func.png>
 Package pdftex.def Info: images/func.png used on input line 7.
-(pdftex.def)             Requested size: 447.87894pt x 202.53001pt.
+(pdftex.def)             Requested size: 447.87894pt x 202.53914pt.
 )
-[7
+[10
 
 
- <./images/func.png>] [8]
+ <./images/func.png>] [11]
 \openout2 = `staticCalculation.aux'.
 
- (staticCalculation.tex [9
+ (staticCalculation.tex [12
 
 
 ]
@@ -616,27 +616,27 @@ File: images/piezo_velocity.png Graphic file (type png)
 <use images/piezo_velocity.png>
 Package pdftex.def Info: images/piezo_velocity.png used on input line 34.
 (pdftex.def)             Requested size: 348.35114pt x 204.42993pt.
- [10]
+ [13]
 
-LaTeX Warning: Text page 11 contains only floats.
+LaTeX Warning: Text page 14 contains only floats.
 
 
 Overfull \vbox (4.98747pt too high) has occurred while \output is active []
 
 
-[11 <./images/rotary_piezo.jpg> <./images/piezo_velocity.png>]
+[14 <./images/rotary_piezo.jpg> <./images/piezo_velocity.png>]
 <images/pic_RSPA30XS.png, id=53, 626.34pt x 602.25pt>
 File: images/pic_RSPA30XS.png Graphic file (type png)
 
 <use images/pic_RSPA30XS.png>
 Package pdftex.def Info: images/pic_RSPA30XS.png used on input line 47.
 (pdftex.def)             Requested size: 248.82332pt x 239.2508pt.
- [12 <./images/pic_RSPA30XS.png>]
+ [15 <./images/pic_RSPA30XS.png>]
 Overfull \hbox (7.6396pt too wide) in paragraph at lines 57--104
  [] 
  []
 
-[13]
+[16]
 Overfull \hbox (8.54156pt too wide) in paragraph at lines 110--111
 \T2A/ftm/m/n/14.4 ин-кре-мен-таль-ный уг-ло-вой фо-то-элек-три-че-ский пре-об-р
 а-зо-ва-тель пе-ре-ме-ще-ний (ин-
@@ -647,7 +647,7 @@ File: images/inc_d.jpg Graphic file (type jpg)
  <use images/inc_d.jpg>
 Package pdftex.def Info: images/inc_d.jpg used on input line 114.
 (pdftex.def)             Requested size: 398.11884pt x 265.42088pt.
- [14 <./images/inc_d.jpg>] [15]
+ [17 <./images/inc_d.jpg>] [18]
 Overfull \hbox (5.97607pt too wide) in paragraph at lines 152--153
 []\T2A/ftm/m/n/14.4 Архитектура мик-ро-кон-трол-ле-ра ADuC7024 ком-па-нии Analo
 g Devices пред-
@@ -659,14 +659,14 @@ File: images/mk_block_sh.png Graphic file (type png)
 <use images/mk_block_sh.png>
 Package pdftex.def Info: images/mk_block_sh.png used on input line 157.
 (pdftex.def)             Requested size: 398.11884pt x 214.77075pt.
- [16]
+ [19]
 <images/control_board_AD.jpg, id=73, 120.45pt x 91.9435pt>
 File: images/control_board_AD.jpg Graphic file (type jpg)
 
 <use images/control_board_AD.jpg>
 Package pdftex.def Info: images/control_board_AD.jpg used on input line 166.
 (pdftex.def)             Requested size: 248.82332pt x 189.95422pt.
- [17 <./images/mk_block_sh.png> <./images/control_board_AD.jpg>]) [18]
+ [20 <./images/mk_block_sh.png> <./images/control_board_AD.jpg>]) [21]
 \openout2 = `mathModeling.aux'.
 
  (mathModeling.tex
@@ -676,7 +676,7 @@ File: images/sh_piezo.png Graphic file (type png)
 <use images/sh_piezo.png>
 Package pdftex.def Info: images/sh_piezo.png used on input line 8.
 (pdftex.def)             Requested size: 398.11884pt x 216.08545pt.
- [19
+ [22
 
 
  <./images/sh_piezo.png>]
@@ -686,14 +686,14 @@ File: images/sh_work.png Graphic file (type png)
 <use images/sh_work.png>
 Package pdftex.def Info: images/sh_work.png used on input line 22.
 (pdftex.def)             Requested size: 398.11884pt x 215.28442pt.
- [20 <./images/sh_work.png>] [21] [22]
+ [23 <./images/sh_work.png>] [24] [25]
 <images/struct_schem.jpg, id=102, 341.275pt x 156.08313pt>
 File: images/struct_schem.jpg Graphic file (type jpg)
 
 <use images/struct_schem.jpg>
-Package pdftex.def Info: images/struct_schem.jpg used on input line 111.
+Package pdftex.def Info: images/struct_schem.jpg used on input line 113.
 (pdftex.def)             Requested size: 398.11884pt x 182.09254pt.
-) [23 <./images/struct_schem.jpg>]
+) [26 <./images/struct_schem.jpg>]
 \openout2 = `blockDiagram.aux'.
 
 
@@ -703,7 +703,7 @@ File: images/str_el_schem.png Graphic file (type png)
 <use images/str_el_schem.png>
 Package pdftex.def Info: images/str_el_schem.png used on input line 7.
 (pdftex.def)             Requested size: 348.35114pt x 91.87993pt.
-) [24
+) [27
 
 
  <./images/str_el_schem.png>]
@@ -716,123 +716,124 @@ File: images/model_schem.png Graphic file (type png)
 <use images/model_schem.png>
 Package pdftex.def Info: images/model_schem.png used on input line 17.
 (pdftex.def)             Requested size: 447.87894pt x 146.51302pt.
- [25
+ [28
 
 
  <./images/model_schem.png>]
-<images/withoutKx.jpg, id=118, 1887.05pt x 857.2025pt>
+<images/withoutKx.jpg, id=118, 1927.2pt x 935.495pt>
 File: images/withoutKx.jpg Graphic file (type jpg)
 
 <use images/withoutKx.jpg>
 Package pdftex.def Info: images/withoutKx.jpg used on input line 29.
-(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
- <images/pereh.jpg, id=119, 1887.05pt x 857.2025pt>
+(pdftex.def)             Requested size: 447.87894pt x 217.4004pt.
+ <images/pereh.jpg, id=119, 1927.2pt x 935.495pt>
 File: images/pereh.jpg Graphic file (type jpg)
 
 <use images/pereh.jpg>
 Package pdftex.def Info: images/pereh.jpg used on input line 35.
-(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
- [26 <./images/withoutKx.jpg> <./images/pereh.jpg>]
-[27] [28] <images/reg.jpg, id=130, 1887.05pt x 857.2025pt>
+(pdftex.def)             Requested size: 447.87894pt x 217.4004pt.
+ [29 <./images/withoutKx.jpg> <./images/pereh.jpg>]
+[30] [31] [32] <images/reg.jpg, id=133, 1927.2pt x 935.495pt>
 File: images/reg.jpg Graphic file (type jpg)
 
 <use images/reg.jpg>
-Package pdftex.def Info: images/reg.jpg used on input line 90.
-(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
- <images/e_reg.jpg, id=131, 1887.05pt x 857.2025pt>
+Package pdftex.def Info: images/reg.jpg used on input line 93.
+(pdftex.def)             Requested size: 447.87894pt x 217.4004pt.
+ [33 <./images/reg.jpg>]
+<images/e_reg.jpg, id=137, 1927.2pt x 935.495pt>
 File: images/e_reg.jpg Graphic file (type jpg)
-
-<use images/e_reg.jpg>
-Package pdftex.def Info: images/e_reg.jpg used on input line 99.
-(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
-) [29 <./images/reg.jpg> <./images/e_reg.jpg>]
+ <use images/e_reg.jpg>
+Package pdftex.def Info: images/e_reg.jpg used on input line 104.
+(pdftex.def)             Requested size: 447.87894pt x 217.4004pt.
+)
+[34 <./images/e_reg.jpg>]
 \openout2 = `d_regulator.aux'.
 
-
-(d_regulator.tex <images/sh_with_d_reg.png, id=135, 585.18625pt x 153.57375pt>
+ (d_regulator.tex
+<images/sh_with_d_reg.png, id=142, 585.18625pt x 153.57375pt>
 File: images/sh_with_d_reg.png Graphic file (type png)
 
 <use images/sh_with_d_reg.png>
 Package pdftex.def Info: images/sh_with_d_reg.png used on input line 15.
 (pdftex.def)             Requested size: 447.87894pt x 117.54445pt.
- [30
+ [35
 
 
  <./images/sh_with_d_reg.png>]
-<images/d_reg.jpg, id=140, 1887.05pt x 857.2025pt>
+<images/d_reg.jpg, id=147, 1887.05pt x 866.23625pt>
 File: images/d_reg.jpg Graphic file (type jpg)
  <use images/d_reg.jpg>
 Package pdftex.def Info: images/d_reg.jpg used on input line 26.
-(pdftex.def)             Requested size: 447.87894pt x 203.44383pt.
+(pdftex.def)             Requested size: 447.87894pt x 205.58784pt.
 )
-[31 <./images/d_reg.jpg>]
+[36 <./images/d_reg.jpg>]
 \openout2 = `manage_system.aux'.
 
  (manage_system.tex
-<images/sh_mk.png, id=145, 209.78375pt x 481.8pt>
+<images/sh_mk.png, id=151, 209.78375pt x 481.8pt>
 File: images/sh_mk.png Graphic file (type png)
  <use images/sh_mk.png>
 Package pdftex.def Info: images/sh_mk.png used on input line 7.
 (pdftex.def)             Requested size: 149.2955pt x 342.88171pt.
 
-[32
+[37
 
 
  <./images/sh_mk.png>]
-<images/sh_prog.png, id=150, 202.7575pt x 684.5575pt>
+<images/sh_prog.png, id=156, 202.7575pt x 684.5575pt>
 File: images/sh_prog.png Graphic file (type png)
  <use images/sh_prog.png>
 Package pdftex.def Info: images/sh_prog.png used on input line 17.
 (pdftex.def)             Requested size: 124.41165pt x 420.05504pt.
-) [33 <./images/sh_prog.png>]
+) [38 <./images/sh_prog.png>]
 \openout2 = `conclusion.aux'.
 
- (conclusion.tex [34
+ (conclusion.tex [39
 
 
-]) [35]
+]) [40]
 \openout2 = `bibliography.aux'.
 
  (bibliography.tex
-[36
+[41
 
 
-]) [37]
+]) [42]
 \openout2 = `appendA.aux'.
 
- (appendA.tex <images/prilA.png, id=168, 427.5975pt x 436.12938pt>
+ (appendA.tex <images/prilA.png, id=174, 427.5975pt x 436.12938pt>
 File: images/prilA.png Graphic file (type png)
 
 <use images/prilA.png>
 Package pdftex.def Info: images/prilA.png used on input line 7.
 (pdftex.def)             Requested size: 447.87894pt x 456.81804pt.
- [38
+ [43
 
 
 
  <./images/prilA.png>]
-<images/prilA_1.png, id=173, 395.97937pt x 410.03188pt>
+<images/prilA_1.png, id=179, 395.97937pt x 410.03188pt>
 File: images/prilA_1.png Graphic file (type png)
 
 <use images/prilA_1.png>
 Package pdftex.def Info: images/prilA_1.png used on input line 17.
 (pdftex.def)             Requested size: 348.35114pt x 360.71654pt.
- [39 <./images/prilA_1.png>]
+ [44 <./images/prilA_1.png>]
 Overfull \hbox (4.39198pt too wide) in paragraph at lines 26--26
 []\T2A/ftm/m/n/14.4 Контрольно-измерительная си-сте-ма сто-ла со-дер-жит элек-т
 ро-дви-га-тель (12),
  []
 
-[40]) [41]
+[45]) [46]
 \openout2 = `appendB.aux'.
 
- (appendB.tex <images/prilB.png, id=184, 284.56313pt x 212.795pt>
+ (appendB.tex <images/prilB.png, id=191, 284.56313pt x 212.795pt>
 File: images/prilB.png Graphic file (type png)
 
 <use images/prilB.png>
 Package pdftex.def Info: images/prilB.png used on input line 7.
 (pdftex.def)             Requested size: 248.82332pt x 186.07826pt.
- [42
+ [47
 
 
 
@@ -842,31 +843,31 @@ Overfull \hbox (19.55537pt too wide) in paragraph at lines 13--13
 undertaken in preparation
  []
 
-) [43]
+) [48]
 \openout2 = `appendC.aux'.
 
- (appendC.tex <images/prilC.png, id=193, 273.02pt x 187.19937pt>
+ (appendC.tex <images/prilC.png, id=199, 273.02pt x 187.19937pt>
 File: images/prilC.png Graphic file (type png)
 
 <use images/prilC.png>
 Package pdftex.def Info: images/prilC.png used on input line 7.
 (pdftex.def)             Requested size: 248.82332pt x 170.60876pt.
- [44
+ [49
 
 
 
  <./images/prilC.png>]
-<images/prilC_1.png, id=198, 1934.22626pt x 2063.71pt>
+<images/prilC_1.png, id=204, 1934.22626pt x 2063.71pt>
 File: images/prilC_1.png Graphic file (type png)
 
 <use images/prilC_1.png>
 Package pdftex.def Info: images/prilC_1.png used on input line 16.
 (pdftex.def)             Requested size: 194.08188pt x 207.04437pt.
-) [45 <./images/prilC_1.png (PNG copy)>]
+) [50 <./images/prilC_1.png (PNG copy)>]
 \openout2 = `appendD.aux'.
 
  (appendD.tex
-<images/prilD.png, id=202, 274.52562pt x 186.6975pt>
+<images/prilD.png, id=208, 274.52562pt x 186.6975pt>
 File: images/prilD.png Graphic file (type png)
  <use images/prilD.png>
 Package pdftex.def Info: images/prilD.png used on input line 5.
@@ -888,21 +889,21 @@ Overfull \hbox (8.5065pt too wide) in paragraph at lines 9--9
 \T2A/ftm/m/n/14.4 IN BACK-LASH-FREE ENGAGEMENT WITH EACH OTHER. AN ATTACHMENT
  []
 
-[46
+[51
 
 
 
- <./images/prilD.png>] <images/prilD_1.png, id=207, 558.888pt x 820.9872pt>
+ <./images/prilD.png>] <images/prilD_1.png, id=213, 558.888pt x 820.9872pt>
 File: images/prilD_1.png Graphic file (type png)
 
 <use images/prilD_1.png>
 Package pdftex.def Info: images/prilD_1.png used on input line 15.
 (pdftex.def)             Requested size: 447.87894pt x 657.93063pt.
-) [47 <./images/prilD_1.png>]
+) [52 <./images/prilD_1.png>]
 \openout2 = `appendE.aux'.
 
  (appendE.tex
-<images/prilE.png, id=211, 276.03125pt x 226.34563pt>
+<images/prilE.png, id=218, 276.03125pt x 226.34563pt>
 File: images/prilE.png Graphic file (type png)
  <use images/prilE.png>
 Package pdftex.def Info: images/prilE.png used on input line 4.
@@ -913,49 +914,49 @@ Overfull \hbox (15.38039pt too wide) in paragraph at lines 10--10
 in robot technology,
  []
 
-[48
+[53
 
 
 
- <./images/prilE.png>]) [49]
+ <./images/prilE.png>]) [54]
 \openout2 = `appendF.aux'.
 
  (appendF.tex
-<images/prilF.png, id=220, 390.96063pt x 479.7925pt>
+<images/prilF.png, id=226, 390.96063pt x 479.7925pt>
 File: images/prilF.png Graphic file (type png)
  <use images/prilF.png>
 Package pdftex.def Info: images/prilF.png used on input line 4.
 (pdftex.def)             Requested size: 423.00269pt x 519.14186pt.
 )
-[50
+[55
 
 
 
  <./images/prilF.png>]
 \openout2 = `appendG.aux'.
 
- (appendG.tex [51
+ (appendG.tex [56
 
 
 
 ]
-<images/prilG.png, id=228, 574.145pt x 218.8175pt>
+<images/prilG.png, id=234, 574.145pt x 218.8175pt>
 File: images/prilG.png Graphic file (type png)
  <use images/prilG.png>
 Package pdftex.def Info: images/prilG.png used on input line 44.
 (pdftex.def)             Requested size: 423.00269pt x 161.2179pt.
 )
-[52 <./images/prilG.png>]
+[57 <./images/prilG.png>]
 \openout2 = `appendH.aux'.
 
  (appendH.tex
-<images/prilH.png, id=233, 269.005pt x 257.96375pt>
+<images/prilH.png, id=239, 269.005pt x 257.96375pt>
 File: images/prilH.png Graphic file (type png)
  <use images/prilH.png>
 Package pdftex.def Info: images/prilH.png used on input line 7.
 (pdftex.def)             Requested size: 423.00269pt x 405.64555pt.
 )
-[53
+[58
 
 
 
@@ -967,7 +968,7 @@ LaTeX Font Info:    Try loading font information for T2A+fer on input line 3.
 
 ("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\t2afer.fd"
 File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
-)) [54
+)) [59
 
 
 
@@ -982,11 +983,11 @@ AED: lastpage setting LastPage
 Here is how much of TeX's memory you used:
  6889 strings out of 493333
  105520 string characters out of 3139179
- 191407 words of memory out of 3000000
+ 191410 words of memory out of 3000000
  10009 multiletter control sequences out of 15000+200000
  28430 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,16n,42p,4482b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,16n,42p,4483b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Igor/Programm/Mik
 Tex 2.9/fonts/enc/t2/t2a.enc} <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\M
@@ -1002,9 +1003,9 @@ mm/MikTex 2.9/fonts/type1/public/pscyr/ercour.pfb><C:/Igor/Programm/MikTex 2.9/
 fonts/type1/public/pscyr/times.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/pub
 lic/pscyr/times.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/pscyr/times
 bd.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/pscyr/timesbd.pfb>
-Output written on diplom.pdf (54 pages, 2506887 bytes).
+Output written on diplom.pdf (56 pages, 2534980 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
